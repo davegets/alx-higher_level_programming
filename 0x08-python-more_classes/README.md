@@ -1,14 +1,7 @@
 # Project Name
 **0x08. Python - More Classes and Objects**
 
-## Author's Details
-Name: *Wendy Munyasi.*
 
-Email: *wendymunyasi@gmail.com*
-
-Tel: *+254707240068.*
-
-##  Requirements
 
 ### Python Scripts
 *   Allowed editors: `vi`, `vim`, `emacs`.
